@@ -1,5 +1,7 @@
 # Candidate antimicrobial resistance gene indicators for veterinary public health surveillance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23832482.svg)](https://doi.org/10.5281/zenodo.23832482)
+
 R code for the article:
 
 > Mahawan T, Thomrongsuwannakij T, Turni C, Omaleki L. Candidate antimicrobial resistance gene
@@ -131,7 +133,7 @@ Please cite the article above and this software:
 
 > Mahawan T, Thomrongsuwannakij T, Turni C, Omaleki L. amr-arg-indicators: R code for
 > leakage-controlled prioritization of antimicrobial resistance gene indicators (version 1.0.0)
-> [software]. Zenodo; 2026. DOI: added at release.
+> [software]. Zenodo; 2026. https://doi.org/10.5281/zenodo.23832482
 
 Citation metadata are in `CITATION.cff`.
 

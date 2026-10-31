@@ -4,6 +4,7 @@ title: "amr-arg-indicators: R code for leakage-controlled prioritization of anti
 version: 1.0.0
 date-released: 2026-10-31
 license: MIT
+doi: 10.5281/zenodo.23832482
 repository-code: "https://github.com/Victormah/amr-arg-indicators"
 keywords:
   - antimicrobial resistance
