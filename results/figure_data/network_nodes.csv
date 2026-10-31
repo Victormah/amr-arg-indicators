@@ -1,0 +1,75 @@
+node,degree,degree_centrality_layers,strength,betweenness,closeness,eigenvector,source_count,sources,accessions,gene_labels,aro_accessions,drug_classes,mechanisms,selection_frequency_max,prioritized_central
+ant(3'')-Ia,68,17,7.59864663212942,0.265601217656012,0.179201067951829,0.0178239870450529,3,Avian|Food|Wastewater,X02340,ant(3'')-Ia,ARO:3002601,aminoglycoside antibiotic,antibiotic inactivation,1,TRUE
+erm(F),33,9,4.97735661512513,0.237062404870624,0.181374543774931,0.138483322197038,2,Avian|Feces,M17808|M62487,erm(F),ARO:3000498,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,1,TRUE
+msr(D),23,23,9.69310877675011,0.137747336377473,0.177056179224348,0.925841272480976,2,Feces|Wastewater,AF227520|AF274302,msr(D),"","","",1,TRUE
+ant(6)-Ia,68,17,7.81593117211091,0.116438356164384,0.162169089004572,0.854211443476965,2,Feces|Wastewater,AF330699|KF864551,ant(6)-Ia,ARO:3002626,aminoglycoside antibiotic,antibiotic inactivation,1,TRUE
+tet(Q),45,15,6.60726028638399,0.0985540334855403,0.177251165925049,0.689379766861213,2,Feces|Wastewater,L33696|U73497|X58717|Z21523,tet(Q),ARO:3000191,tetracycline antibiotic,antibiotic target protection,1,TRUE
+aph(3')-III,54,3,1.01934697492468,0.0787671232876712,0.128094828564639,0.0539950105203119,2,Feces|Wastewater,M26832,aph(3')-III,ARO:3002647,aminoglycoside antibiotic,antibiotic inactivation,0.84,TRUE
+mef(A),23,23,10.2341866268674,0.0681126331811263,0.172348944560302,1,2,Feces|Wastewater,AF227520|AJ971089|HG423652|U83667,mef(A),"","","",1,TRUE
+blaTEM-1B,6,6,2.46612190542421,0.0730593607305936,0.116985825412468,0.00294351373139766,1,Wastewater,AY458016,blaTEM-1B,"","","",1,FALSE
+floR,23,8,3.23450442930141,0.0703957382039574,0.118272314179332,0.000624199017437225,1,Wastewater,AF118107,floR,ARO:3002705,phenicol antibiotic,antibiotic efflux,0.96,FALSE
+tet(C),36,9,3.35851959336809,0.0593607305936073,0.154730803078574,0.0173511129314041,1,Wastewater,AF055345|AY046276,tet(C),ARO:3000167,tetracycline antibiotic,antibiotic efflux,1,FALSE
+blaOXA-10,62,8,2.72086775225844,0.0532724505327245,0.147066307101925,0.11287986932241,1,Wastewater,J03427,blaOXA-10,ARO:3001405,cephalosporin; penicillin beta-lactam,antibiotic inactivation,1,FALSE
+sul2,12,8,2.91458494116304,0.0506088280060883,0.119631716552044,0.000596645650820438,1,Wastewater,AY034138,sul2,ARO:3000412,sulfonamide antibiotic,antibiotic target replacement,0.56,FALSE
+blaVIM-48,63,6,2.17587091909435,0.0437595129375951,0.1411926770611,0.00152643654600309,1,Wastewater,KY362199,blaVIM-48,ARO:3005496,carbapenem; cephalosporin; penicillin beta-lactam,antibiotic inactivation,0.8,FALSE
+aph(6)-Id,55,4,1.93894552553122,0.0353881278538813,0.160320327360874,0.0133734371914239,3,Avian|Compost|Wastewater,M28829,aph(6)-Id,ARO:3002660,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+blaOXA-347,54,6,2.20059565006093,0.0331050228310502,0.148366997211858,0.140748415489993,1,Wastewater,ACWG01000053,blaOXA-347,ARO:3001777,penicillin beta-lactam,antibiotic inactivation,1,FALSE
+aph(3'')-Ib,55,4,1.53089415257213,0.0315829528158295,0.143304548425265,0.00232304042366454,1,Wastewater,AF024602|AF313472|AF321551,aph(3'')-Ib,ARO:3002639,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+sul1,11,7,2.61616808411713,0.0315829528158295,0.152580331080207,0.00339063292942364,1,Wastewater,EU780013,sul1,ARO:3000410,sulfonamide antibiotic,antibiotic target replacement,1,FALSE
+tet(W),47,17,8.1686962380505,0.0308219178082192,0.156847346257114,0.957207161383505,2,Feces|Wastewater,AJ427422|FN396364,tet(W),ARO:3000194,tetracycline antibiotic,antibiotic target protection,1,FALSE
+catB3,50,6,2.00374310866081,0.023972602739726,0.118298814573925,0.00262093529793051,1,Wastewater,U13880,catB3,ARO:3002676,phenicol antibiotic,antibiotic inactivation,1,FALSE
+aadA2,58,7,2.40112361928071,0.0205479452054795,0.129125564101931,0.00202359422977439,1,Wastewater,NC_010870,aadA2,ARO:3002602,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+cmlA1,21,6,2.03647406180678,0.0205479452054795,0.143583769250927,0.0170432518857579,1,Wastewater,M64556,cmlA1,ARO:3002693,phenicol antibiotic,antibiotic efflux,1,FALSE
+cfxA6,62,18,7.59053058833437,0.0190258751902588,0.164095627820396,0.804459294522982,1,Wastewater,GQ342996,cfxA6,ARO:3003097,cephalosporin,antibiotic inactivation,0.68,FALSE
+ere(D),58,12,5.16108880845521,0.0178843226788432,0.1484054332501,0.415081265663629,1,Wastewater,KP265721,ere(D),ARO:3004608,macrolide antibiotic,antibiotic inactivation,1,FALSE
+ant(2'')-Ia,57,6,2.49566498791551,0.0110350076103501,0.110378191648754,0.000533233261125933,1,Wastewater,X04555,ant(2'')-Ia,ARO:3000230,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+catQ,54,10,3.97902356511986,0.00722983257229833,0.143310283215191,0.422219735383835,1,Wastewater,M55620,catQ,ARO:3002687,phenicol antibiotic,antibiotic inactivation,0.72,FALSE
+aac(6')-Iaa,61,10,5.46815430527786,0.0030441400304414,0.148673109389112,0.00444324697246134,1,Food,NC_003197,aac(6')-Iaa,ARO:3002571,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+tet(32),47,17,7.00370699068816,0.0015220700152207,0.147452586343683,0.858587607912521,2,Feces|Wastewater,EF626943|EU722333,tet(32),ARO:3000196,tetracycline antibiotic,antibiotic target protection,1,FALSE
+VanC4XY,9,9,5.07400078473656,0.00114155251141553,0.136694231524631,0.00385952735626147,1,Food,EU151752,VanC4XY,"","","",1,FALSE
+msr(E),36,10,4.797893807924,0.00114155251141553,0.134972505188661,0.412069324199537,1,Wastewater,FR751518,msr(E),ARO:3003109,macrolide antibiotic; streptogramin antibiotic,antibiotic target protection,1,FALSE
+lsa(E),42,16,6.63198787297798,0.00076103500761035,0.159675442526789,0.720272123301981,1,Wastewater,JX560992,lsa(E),ARO:3003206,lincosamide antibiotic; pleuromutilin antibiotic; streptogramin antibiotic,antibiotic target protection,0.84,FALSE
+mef(C),46,11,4.94403057512618,0.00076103500761035,0.138042830675503,0.430544684686863,1,Wastewater,AB571865,mef(C),ARO:3003745,macrolide antibiotic; tetracycline antibiotic,antibiotic efflux,1,FALSE
+tet(39),36,9,4.21252878760444,0.00076103500761035,0.135405917565112,0.378651173062762,1,Wastewater,KT346360,tet(39),ARO:3000566,tetracycline antibiotic,antibiotic efflux,1,FALSE
+tet(M),41,11,4.99781172872427,0.00076103500761035,0.150250854208368,0.662170372607829,2,Feces|Wastewater,AM990992|FR671418|X04388,tet(M),ARO:3000186,tetracycline antibiotic,antibiotic target protection,1,FALSE
+tet(O),46,16,7.49547295133016,0.00076103500761035,0.149092313405022,0.900674034928938,2,Feces|Wastewater,M20925|Y07780,tet(O),ARO:3000190,tetracycline antibiotic,antibiotic target protection,1,FALSE
+aadA1,52,1,0.349080946995919,0,0.0887069428881431,0.000148339051964348,1,Wastewater,JQ414041,aadA1,ARO:3002601,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+aadA1b,0,0,0,0,,0,1,Wastewater,M95287,aadA1b,"","","",0.64,FALSE
+aadA24,51,0,0,0,,0,1,Wastewater,AM711129,aadA24,ARO:3002621,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+aadA5,58,7,2.17360300054533,0,0.127438798978707,0.199300333759608,1,Wastewater,AF137361,aadA5,ARO:3002605,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+aadA6,58,7,3.38171522729102,0,0.140323914961118,0.0031568777910362,1,Food,AF140629,aadA6,ARO:3002606,aminoglycoside antibiotic,antibiotic inactivation,1,FALSE
+aadA7,51,0,0,0,,0,1,Wastewater,AF224733,aadA7,ARO:3002607,aminoglycoside antibiotic,antibiotic inactivation,0.68,FALSE
+aadD,51,0,0,0,,0,1,Avian,M19465,aadD,ARO:3002623,aminoglycoside antibiotic,antibiotic inactivation,0.88,FALSE
+blaACI-1,58,4,1.28237847575835,0,0.110405338790529,0.00310081810039007,1,Wastewater,AJ007350,blaACI-1,ARO:3004359,cephalosporin; penicillin beta-lactam,antibiotic inactivation,1,FALSE
+blaGES-5,57,0,0,0,,0,1,Wastewater,DQ236171,blaGES-5,ARO:3002334,carbapenem; cephalosporin; penicillin beta-lactam,antibiotic inactivation,0.64,FALSE
+blaOXA-1,56,2,0.633772750956806,0,0.0870992817118348,5.92267117080898e-05,1,Wastewater,HQ170510,blaOXA-1,ARO:3001396,cephalosporin; penicillin beta-lactam,antibiotic inactivation,0.52,FALSE
+blaOXA-2,55,1,0.395439006817462,0,0.107654493640091,0.00723717473660107,1,Wastewater,DQ112222,blaOXA-2,ARO:3001397,cephalosporin; penicillin beta-lactam,antibiotic inactivation,1,FALSE
+blaOXA-213,51,0,0,0,,0,1,Compost,JN861781,blaOXA-213,ARO:3001712,carbapenem; penicillin beta-lactam,antibiotic inactivation,0.84,FALSE
+blaOXA-46,48,0,0,0,,0,1,Wastewater,AF317511,blaOXA-46,ARO:3001797,penicillin beta-lactam,antibiotic inactivation,0.72,FALSE
+blaOXA-58,51,0,0,0,,0,1,Wastewater,AY665723,blaOXA-58,ARO:3001611,carbapenem; penicillin beta-lactam,antibiotic inactivation,1,FALSE
+blaOXA-9,51,3,2.13110916941445,0,0.143478470634508,0.0197351380636122,1,Avian,KQ089875,blaOXA-9,ARO:3001404,penicillin beta-lactam,antibiotic inactivation,0.64,FALSE
+catA1,47,3,1.15896696707711,0,0.0992302762184231,0.000274648091135145,1,Wastewater,V00622,catA1,ARO:3002683,phenicol antibiotic,antibiotic inactivation,0.64,FALSE
+cfr(C),29,7,3.09103176498686,0,0.130419389591323,0.359272337640665,1,Feces,CANB01000378,cfr(C),ARO:3004146,lincosamide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; streptogramin antibiotic,antibiotic target alteration,0.96,FALSE
+ere(A),52,6,2.14702954719229,0,0.135879960844247,0.0086944664436111,1,Wastewater,AY183453|DQ157752,ere(A),ARO:3000361,macrolide antibiotic,antibiotic inactivation,1,FALSE
+erm(B),27,3,0.945118412312847,0,0.117625764694092,0.134766774949767,1,Wastewater,JN899585,erm(B),ARO:3000375,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,0.84,FALSE
+erm(G),28,4,2.04668915691426,0,0.162210681346686,0.204803109721927,1,Feces,L42817|M15332,erm(G),ARO:3000522,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,1,FALSE
+fosA,47,8,3.74865084510291,0,0.122382737146484,0.00279423613313584,1,Food,AEXB01000013,fosA,ARO:3000149,phosphonic acid antibiotic,antibiotic inactivation,1,FALSE
+fosX,48,9,4.53645093588997,0,0.130698457835581,0.00345028327079679,1,Food,AL591981,fosX,ARO:3000198,phosphonic acid antibiotic,antibiotic inactivation,1,FALSE
+lnu(C),54,9,3.64982630269248,0,0.143194629262806,0.498239257804832,1,Wastewater,AY928180,lnu(C),ARO:3002837,lincosamide antibiotic,antibiotic inactivation,1,FALSE
+lnu(F),46,1,0.319101753272047,0,0.0859632706700932,0.000152288921255366,1,Wastewater,EU118119,lnu(F),ARO:3002839,lincosamide antibiotic,antibiotic inactivation,0.56,FALSE
+lsa(A),34,8,3.91356467821019,0,0.126696329461259,0.00306400293529829,1,Food,AY225127,lsa(A),ARO:3000300,lincosamide antibiotic; pleuromutilin antibiotic; streptogramin antibiotic,antibiotic target protection,1,FALSE
+mdf(A),37,4,2.13693906944886,0,0.129808375256111,0.0021580484181054,1,Food,Y08743,mdf(A),ARO:3001328,disinfecting agents and antiseptics; phenicol antibiotic; tetracycline antibiotic,antibiotic efflux,1,FALSE
+mph(E),55,9,4.45498502807495,0,0.133508882190824,0.398002009623225,1,Wastewater,DQ839391,mph(E),ARO:3003741,macrolide antibiotic,antibiotic inactivation,1,FALSE
+mph(G),55,9,3.91528300508274,0,0.131503432712138,0.328182048408625,1,Wastewater,AB571865,mph(G),ARO:3003742,macrolide antibiotic,antibiotic inactivation,1,FALSE
+qnrS2,12,0,0,0,,0,1,Wastewater,DQ485530,qnrS2,ARO:3002791,fluoroquinolone antibiotic,antibiotic target protection,1,FALSE
+sul3,7,3,2.17455498651088,0,0.144431443119794,0.0202028615578987,1,Avian,AJ459418,sul3,ARO:3000413,sulfonamide antibiotic,antibiotic target replacement,0.52,FALSE
+tet(40),37,10,3.98447350277283,0,0.123607184097922,0.487235009902427,2,Feces|Wastewater,FJ158002,tet(40),ARO:3000567,tetracycline antibiotic,antibiotic efflux,0.72,FALSE
+tet(A),28,1,0.373262280788826,0,0.090940440810686,3.61080170219882e-05,1,Wastewater,AF534183,tet(A),ARO:3000165,tetracycline antibiotic,antibiotic efflux,1,FALSE
+tet(G),32,5,1.83030232184277,0,0.118117379375219,0.000461479273971607,1,Wastewater,AF133140,tet(G),ARO:3000174,tetracycline antibiotic,antibiotic efflux,1,FALSE
+tet(O/32/O),45,15,6.25847944534426,0,0.1353929215617,0.781260630380128,2,Feces|Wastewater,FP929050|NZ_AUJS01000017,tet(O/32/O),ARO:3007119,tetracycline antibiotic,antibiotic target protection,1,FALSE
+tet(O/W),34,4,1.85916825889658,0,0.128626205630885,0.209596209231891,1,Feces,AM889121,tet(O/W),ARO:3007121,tetracycline antibiotic,antibiotic target protection,0.96,FALSE
+tet(S),39,9,4.5408534187529,0,0.135028885596125,0.00357477950960259,1,Food,L09756,tet(S),ARO:3000192,tetracycline antibiotic,antibiotic target protection,0.56,FALSE
+tet(X),60,3,1.41208203964653,0,0.152688241337014,0.0789337941468106,1,Feces,GU014535|M37699,tet(X),ARO:3000205,glycylcycline; tetracycline antibiotic,antibiotic inactivation,1,FALSE
+tet(X3),62,5,2.70855841778651,0,0.166243410461564,0.0223731176733573,1,Avian,MK134375,tet(X3),ARO:3004719,glycylcycline; tetracycline antibiotic,antibiotic inactivation,0.72,FALSE
+tetA(P),34,7,3.83559753118219,0,0.130196833195159,0.00308575274912349,1,Food,AB001076,tetA(P),ARO:3000180,tetracycline antibiotic,antibiotic efflux,0.6,FALSE
+tetB(P),37,7,3.22097068917046,0,0.122437845075249,0.00261588815201777,1,Food,NC_010937,tetB(P),ARO:3000195,tetracycline antibiotic,antibiotic target protection,0.76,FALSE

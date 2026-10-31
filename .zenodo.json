@@ -1,0 +1,51 @@
+{
+  "title": "amr-arg-indicators: R code for leakage-controlled prioritization of antimicrobial resistance gene indicators",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "<p>R code for the article 'Candidate antimicrobial resistance gene indicators for veterinary public health surveillance: a leakage-controlled analysis of animal, food and environmental metagenomes' (Research in Veterinary Science, submitted). The pipeline reanalyses public metagenomes (Avian, Compost, Feces, Food, Wastewater) to (i) reconstruct total antimicrobial resistance gene burden from small gene subsets, (ii) classify sample source with sample-level and project-blocked nested cross-validation, and (iii) prioritize candidate indicator genes from a network of within-source gene associations. All gene selection and tuning use training samples only. Derived result tables and figure data are included; input data are public and are not redistributed.</p>",
+  "creators": [
+    {
+      "name": "Mahawan, Tanakamol",
+      "affiliation": "Walailak University"
+    },
+    {
+      "name": "Thomrongsuwannakij, Thotsapol",
+      "affiliation": "Walailak University"
+    },
+    {
+      "name": "Turni, Conny",
+      "affiliation": "The University of Queensland"
+    },
+    {
+      "name": "Omaleki, Lida",
+      "affiliation": "The University of Queensland"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "antimicrobial resistance",
+    "veterinary public health",
+    "surveillance",
+    "metagenomics",
+    "machine learning",
+    "One Health",
+    "R"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.7553776",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.1371/journal.pbio.3001792",
+      "relation": "references",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/Victormah/amr-arg-indicators",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+source,samples,projects,largest_project_samples,largest_project_pct,countries,samples_missing_country,continents
+Avian,98,3,80,81.6,2,80,Asia
+Compost,80,25,26,32.5,5,6,Asia; Europe; North America; South America
+Feces,159,13,96,60.4,2,123,Asia; North America
+Food,221,19,51,23.1,7,120,Asia; Europe; North America; Oceania
+Wastewater,1313,89,270,20.6,69,23,Africa; Antarctica; Asia; Europe; North America; Oceania; South America

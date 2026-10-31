@@ -1,0 +1,6 @@
+source_key,display_name,metadata_eligible_samples,arg_positive_samples,modeled_samples,modeled_features,median_arg_fpm,median_log_arg_load,metadata_without_arg_hits
+avian,Avian,109,98,98,546,54874.7632349896,10.9128069691014,11
+compost,Compost,83,80,80,455,6726.20224961886,8.81305789060268,3
+feces,Feces,195,159,159,703,268643.010841111,12.5011424023708,36
+food,Food,1052,221,221,529,6007.02708829196,8.70085170213753,831
+wastewater,Wastewater,1319,1313,1313,2084,141683.778234086,11.8613599974251,6

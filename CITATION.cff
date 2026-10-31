@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this software."
+title: "amr-arg-indicators: R code for leakage-controlled prioritization of antimicrobial resistance gene indicators"
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/Victormah/amr-arg-indicators"
+keywords:
+  - antimicrobial resistance
+  - veterinary public health
+  - surveillance
+  - metagenomics
+  - machine learning
+  - One Health
+authors:
+  - family-names: Mahawan
+    given-names: Tanakamol
+    affiliation: "Akkhraratchakumari Veterinary College and One Health Research Center, Walailak University, Thailand"
+  - family-names: Thomrongsuwannakij
+    given-names: Thotsapol
+    affiliation: "Akkhraratchakumari Veterinary College and One Health Research Center, Walailak University, Thailand"
+  - family-names: Turni
+    given-names: Conny
+    affiliation: "Queensland Alliance for Agriculture and Food Innovation, The University of Queensland, Australia"
+  - family-names: Omaleki
+    given-names: Lida
+    affiliation: "Queensland Alliance for Agriculture and Food Innovation, The University of Queensland, Australia"
+preferred-citation:
+  type: article
+  title: "Candidate antimicrobial resistance gene indicators for veterinary public health surveillance: a leakage-controlled analysis of animal, food and environmental metagenomes"
+  journal: "Research in Veterinary Science"
+  status: submitted
+  authors:
+    - family-names: Mahawan
+      given-names: Tanakamol
+    - family-names: Thomrongsuwannakij
+      given-names: Thotsapol
+    - family-names: Turni
+      given-names: Conny
+    - family-names: Omaleki
+      given-names: Lida
+references:
+  - type: dataset
+    title: "A curated data resource of 214K metagenomes for characterization of the global resistome (version 3)"
+    doi: 10.5281/zenodo.7553776
+    authors:
+      - family-names: Martiny
+        given-names: Hannah-Marie
+      - family-names: Munk
+        given-names: Patrick
+      - family-names: Brinch
+        given-names: Christian
+      - family-names: Aarestrup
+        given-names: Frank M.
+      - family-names: Petersen
+        given-names: Thomas N.

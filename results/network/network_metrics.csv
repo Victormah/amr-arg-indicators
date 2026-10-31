@@ -1,0 +1,2 @@
+nodes,edges,ecological_edges,mechanism_edges,drug_class_edges,components,density,prioritized_nodes,centrality_layers,betweenness_threshold,annotated_features,selected_features
+74,1598,269,873,456,2,0.59163272861903,7,Ecological,0.0659246575342466,102,112

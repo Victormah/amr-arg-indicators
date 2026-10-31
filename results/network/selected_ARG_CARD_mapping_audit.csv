@@ -1,0 +1,113 @@
+source_key,ref_sequence,gene_label,accession,selection_frequency,aro_accession,aro_name,drug_class,resistance_mechanism,card_annotation_status
+avian,ant(3'')-Ia_1_X02340,ant(3'')-Ia,X02340,0.92,ARO:3002601,aadA,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+avian,aadD_2_M19465,aadD,M19465,0.88,ARO:3002623,ANT(4')-Ia,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+avian,tet(X3)_1_MK134375,tet(X3),MK134375,0.72,ARO:3004719,tet(X3),glycylcycline; tetracycline antibiotic,antibiotic inactivation,tier1_accession_and_gene
+avian,aph(6)-Id_1_M28829,aph(6)-Id,M28829,0.64,ARO:3002660,APH(6)-Id,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+avian,blaOXA-9_1_KQ089875,blaOXA-9,KQ089875,0.64,ARO:3001404,OXA-9,penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+avian,erm(F)_3_M17808,erm(F),M17808,0.52,ARO:3000498,ErmF,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+avian,sul3_2_AJ459418,sul3,AJ459418,0.52,ARO:3000413,sul3,sulfonamide antibiotic,antibiotic target replacement,tier2_unique_name
+compost,blaOXA-213_1_JN861781,blaOXA-213,JN861781,0.84,ARO:3001712,OXA-213,carbapenem; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+compost,aph(6)-Id_1_M28829,aph(6)-Id,M28829,0.8,ARO:3002660,APH(6)-Id,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+feces,ant(6)-Ia_3_KF864551,ant(6)-Ia,KF864551,1,ARO:3002626,ANT(6)-Ia,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+feces,ant(6)-Ia_1_AF330699,ant(6)-Ia,AF330699,1,ARO:3002626,ANT(6)-Ia,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+feces,erm(F)_3_M17808,erm(F),M17808,1,ARO:3000498,ErmF,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+feces,erm(G)_1_M15332,erm(G),M15332,1,ARO:3000522,ErmG,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+feces,tet(32)_2_EF626943,tet(32),EF626943,1,ARO:3000196,tet(32),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(O)_2_M20925,tet(O),M20925,1,ARO:3000190,tet(O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(O)_3_Y07780,tet(O),Y07780,1,ARO:3000190,tet(O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(O/32/O)_5_FP929050,tet(O/32/O),FP929050,1,ARO:3007119,tet(O/32/O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(Q)_1_L33696,tet(Q),L33696,1,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(Q)_2_X58717,tet(Q),X58717,1,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(Q)_3_U73497,tet(Q),U73497,1,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(Q)_4_Z21523,tet(Q),Z21523,1,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier1_accession_and_gene
+feces,tet(W)_5_AJ427422,tet(W),AJ427422,1,ARO:3000194,tet(W),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(X)_2_M37699,tet(X),M37699,1,ARO:3000205,tet(X),glycylcycline; tetracycline antibiotic,antibiotic inactivation,tier1_accession_and_gene
+feces,tet(X)_1_GU014535,tet(X),GU014535,1,ARO:3000205,tet(X),glycylcycline; tetracycline antibiotic,antibiotic inactivation,tier2_unique_name
+feces,cfr(C)_2_CANB01000378,cfr(C),CANB01000378,0.96,ARO:3004146,cfrC,lincosamide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+feces,msr(D)_3_AF227520,msr(D),AF227520,0.96,,,,,unmatched
+feces,tet(O/W)_4_AM889121,tet(O/W),AM889121,0.96,ARO:3007121,tet(O/W),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(W)_4_FN396364,tet(W),FN396364,0.96,ARO:3000194,tet(W),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(O/32/O)_3_NZ_AUJS01000017,tet(O/32/O),NZ_AUJS01000017,0.92,ARO:3007119,tet(O/32/O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,erm(G)_2_L42817,erm(G),L42817,0.84,ARO:3000522,ErmG,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier1_accession_and_gene
+feces,tet(32)_1_EU722333,tet(32),EU722333,0.8,ARO:3000196,tet(32),tetracycline antibiotic,antibiotic target protection,tier1_accession_and_gene
+feces,tet(M)_13_AM990992,tet(M),AM990992,0.76,ARO:3000186,tet(M),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+feces,tet(40)_1_FJ158002,tet(40),FJ158002,0.72,ARO:3000567,tet(40),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+feces,aph(3')-III_1_M26832,aph(3')-III,M26832,0.68,ARO:3002647,APH(3')-IIIa,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+feces,mef(A)_2_U83667,mef(A),U83667,0.56,,,,,unmatched
+feces,erm(F)_4_M62487,erm(F),M62487,0.52,ARO:3000498,ErmF,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+food,VanC4XY_1_EU151752,VanC4XY,EU151752,1,,,,,unmatched
+food,aac(6')-Iaa_1_NC_003197,aac(6')-Iaa,NC_003197,1,ARO:3002571,AAC(6')-Iaa,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+food,aadA6_1_AF140629,aadA6,AF140629,1,ARO:3002606,aadA6,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+food,ant(3'')-Ia_1_X02340,ant(3'')-Ia,X02340,1,ARO:3002601,aadA,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+food,fosA_7_AEXB01000013,fosA,AEXB01000013,1,ARO:3000149,FosA,phosphonic acid antibiotic,antibiotic inactivation,tier2_unique_name
+food,fosX_2_AL591981,fosX,AL591981,1,ARO:3000198,FosX,phosphonic acid antibiotic,antibiotic inactivation,tier2_unique_name
+food,lsa(A)_1_AY225127,lsa(A),AY225127,1,ARO:3000300,lsaA,lincosamide antibiotic; pleuromutilin antibiotic; streptogramin antibiotic,antibiotic target protection,tier1_accession_and_gene
+food,mdf(A)_1_Y08743,mdf(A),Y08743,1,ARO:3001328,Escherichia coli mdfA,disinfecting agents and antiseptics; phenicol antibiotic; tetracycline antibiotic,antibiotic efflux,tier3_curated_synonym
+food,tetB(P)_1_NC_010937,tetB(P),NC_010937,0.76,ARO:3000195,tetB(P),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+food,tetA(P)_3_AB001076,tetA(P),AB001076,0.6,ARO:3000180,tetA(P),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+food,tet(S)_2_L09756,tet(S),L09756,0.56,ARO:3000192,tet(S),tetracycline antibiotic,antibiotic target protection,tier1_accession_and_gene
+wastewater,aadA1_3_JQ414041,aadA1,JQ414041,1,ARO:3002601,aadA,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+wastewater,aadA24_1_AM711129,aadA24,AM711129,1,ARO:3002621,aadA24,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,aadA2_1_NC_010870,aadA2,NC_010870,1,ARO:3002602,aadA2,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,aadA5_1_AF137361,aadA5,AF137361,1,ARO:3002605,aadA5,aminoglycoside antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,ant(2'')-Ia_1_X04555,ant(2'')-Ia,X04555,1,ARO:3000230,ANT(2'')-Ia,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,ant(3'')-Ia_1_X02340,ant(3'')-Ia,X02340,1,ARO:3002601,aadA,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+wastewater,aph(3'')-Ib_5_AF321551,aph(3'')-Ib,AF321551,1,ARO:3002639,APH(3'')-Ib,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,aph(3'')-Ib_2_AF024602,aph(3'')-Ib,AF024602,1,ARO:3002639,APH(3'')-Ib,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,aph(6)-Id_1_M28829,aph(6)-Id,M28829,1,ARO:3002660,APH(6)-Id,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,blaACI-1_1_AJ007350,blaACI-1,AJ007350,1,ARO:3004359,ACI-1,cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,blaOXA-10_1_J03427,blaOXA-10,J03427,1,ARO:3001405,OXA-10,cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,blaOXA-2_1_DQ112222,blaOXA-2,DQ112222,1,ARO:3001397,OXA-2,cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,blaOXA-347_1_ACWG01000053,blaOXA-347,ACWG01000053,1,ARO:3001777,OXA-347,penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,blaOXA-58_1_AY665723,blaOXA-58,AY665723,1,ARO:3001611,OXA-58,carbapenem; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,blaTEM-1B_1_AY458016,blaTEM-1B,AY458016,1,,,,,unmatched
+wastewater,catB3_2_U13880,catB3,U13880,1,ARO:3002676,catB3,phenicol antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,cmlA1_1_M64556,cmlA1,M64556,1,ARO:3002693,cmlA1,phenicol antibiotic,antibiotic efflux,tier1_accession_and_gene
+wastewater,ere(A)_6_DQ157752,ere(A),DQ157752,1,ARO:3000361,EreA,macrolide antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,ere(A)_1_AY183453,ere(A),AY183453,1,ARO:3000361,EreA,macrolide antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,ere(D)_1_KP265721,ere(D),KP265721,1,ARO:3004608,EreD,macrolide antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,lnu(C)_1_AY928180,lnu(C),AY928180,1,ARO:3002837,lnuC,lincosamide antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,mef(A)_4_HG423652,mef(A),HG423652,1,,,,,unmatched
+wastewater,mef(A)_3_AF227520,mef(A),AF227520,1,,,,,unmatched
+wastewater,mef(C)_1_AB571865,mef(C),AB571865,1,ARO:3003745,mef(C),macrolide antibiotic; tetracycline antibiotic,antibiotic efflux,tier1_accession_and_gene
+wastewater,mph(E)_1_DQ839391,mph(E),DQ839391,1,ARO:3003741,mphE,macrolide antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,mph(G)_1_AB571865,mph(G),AB571865,1,ARO:3003742,mphG,macrolide antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,msr(D)_2_AF274302,msr(D),AF274302,1,,,,,unmatched
+wastewater,msr(D)_3_AF227520,msr(D),AF227520,1,,,,,unmatched
+wastewater,msr(E)_1_FR751518,msr(E),FR751518,1,ARO:3003109,msrE,macrolide antibiotic; streptogramin antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,qnrS2_1_DQ485530,qnrS2,DQ485530,1,ARO:3002791,QnrS2,fluoroquinolone antibiotic,antibiotic target protection,tier1_accession_and_gene
+wastewater,sul1_5_EU780013,sul1,EU780013,1,ARO:3000410,sul1,sulfonamide antibiotic,antibiotic target replacement,tier2_unique_name
+wastewater,tet(32)_1_EU722333,tet(32),EU722333,1,ARO:3000196,tet(32),tetracycline antibiotic,antibiotic target protection,tier1_accession_and_gene
+wastewater,tet(39)_1_KT346360,tet(39),KT346360,1,ARO:3000566,tet(39),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,tet(A)_6_AF534183,tet(A),AF534183,1,ARO:3000165,tet(A),tetracycline antibiotic,antibiotic efflux,tier1_accession_and_gene
+wastewater,tet(C)_2_AY046276,tet(C),AY046276,1,ARO:3000167,tet(C),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,tet(G)_2_AF133140,tet(G),AF133140,1,ARO:3000174,tet(G),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,tet(M)_8_X04388,tet(M),X04388,1,ARO:3000186,tet(M),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(Q)_1_L33696,tet(Q),L33696,1,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(W)_5_AJ427422,tet(W),AJ427422,1,ARO:3000194,tet(W),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,ant(6)-Ia_3_KF864551,ant(6)-Ia,KF864551,0.96,ARO:3002626,ANT(6)-Ia,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,floR_2_AF118107,floR,AF118107,0.96,ARO:3002705,floR,phenicol antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,mef(A)_1_AJ971089,mef(A),AJ971089,0.96,,,,,unmatched
+wastewater,tet(C)_3_AF055345,tet(C),AF055345,0.92,ARO:3000167,tet(C),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,tet(M)_12_FR671418,tet(M),FR671418,0.92,ARO:3000186,tet(M),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(M)_13_AM990992,tet(M),AM990992,0.92,ARO:3000186,tet(M),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(O)_3_Y07780,tet(O),Y07780,0.92,ARO:3000190,tet(O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(O/32/O)_5_FP929050,tet(O/32/O),FP929050,0.92,ARO:3007119,tet(O/32/O),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,aph(3')-III_1_M26832,aph(3')-III,M26832,0.84,ARO:3002647,APH(3')-IIIa,aminoglycoside antibiotic,antibiotic inactivation,tier3_curated_synonym
+wastewater,erm(B)_1_JN899585,erm(B),JN899585,0.84,ARO:3000375,ErmB,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,tier2_unique_name
+wastewater,lsa(E)_1_JX560992,lsa(E),JX560992,0.84,ARO:3003206,lsaE,lincosamide antibiotic; pleuromutilin antibiotic; streptogramin antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,tet(Q)_2_X58717,tet(Q),X58717,0.84,ARO:3000191,tet(Q),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,blaVIM-48_1_KY362199,blaVIM-48,KY362199,0.8,ARO:3005496,VIM-48,carbapenem; cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,tet(W)_4_FN396364,tet(W),FN396364,0.76,ARO:3000194,tet(W),tetracycline antibiotic,antibiotic target protection,tier2_unique_name
+wastewater,blaOXA-46_1_AF317511,blaOXA-46,AF317511,0.72,ARO:3001797,OXA-46,penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,catQ_1_M55620,catQ,M55620,0.72,ARO:3002687,catQ,phenicol antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,aadA7_1_AF224733,aadA7,AF224733,0.68,ARO:3002607,aadA7,aminoglycoside antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,cfxA6_1_GQ342996,cfxA6,GQ342996,0.68,ARO:3003097,CfxA6,cephalosporin,antibiotic inactivation,tier1_accession_and_gene
+wastewater,aadA1b_1_M95287,aadA1b,M95287,0.64,,,,,unmatched
+wastewater,blaGES-5_1_DQ236171,blaGES-5,DQ236171,0.64,ARO:3002334,GES-5,carbapenem; cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla
+wastewater,catA1_1_V00622,catA1,V00622,0.64,ARO:3002683,catA1,phenicol antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,lnu(F)_1_EU118119,lnu(F),EU118119,0.56,ARO:3002839,lnuF,lincosamide antibiotic,antibiotic inactivation,tier2_unique_name
+wastewater,sul2_2_AY034138,sul2,AY034138,0.56,ARO:3000412,sul2,sulfonamide antibiotic,antibiotic target replacement,tier2_unique_name
+wastewater,tet(40)_1_FJ158002,tet(40),FJ158002,0.56,ARO:3000567,tet(40),tetracycline antibiotic,antibiotic efflux,tier2_unique_name
+wastewater,aph(3'')-Ib_4_AF313472,aph(3'')-Ib,AF313472,0.52,ARO:3002639,APH(3'')-Ib,aminoglycoside antibiotic,antibiotic inactivation,tier1_accession_and_gene
+wastewater,blaOXA-1_1_HQ170510,blaOXA-1,HQ170510,0.52,ARO:3001396,OXA-1,cephalosporin; penicillin beta-lactam,antibiotic inactivation,tier2_unique_name_without_bla

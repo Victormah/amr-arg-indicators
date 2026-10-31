@@ -1,0 +1,8 @@
+node,degree,degree_centrality_layers,strength,betweenness,closeness,eigenvector,source_count,sources,accessions,gene_labels,aro_accessions,drug_classes,mechanisms,selection_frequency_max,prioritized_central
+ant(3'')-Ia,68,17,7.59864663212942,0.265601217656012,0.179201067951829,0.0178239870450529,3,Avian|Food|Wastewater,X02340,ant(3'')-Ia,ARO:3002601,aminoglycoside antibiotic,antibiotic inactivation,1,TRUE
+erm(F),33,9,4.97735661512513,0.237062404870624,0.181374543774931,0.138483322197038,2,Avian|Feces,M17808|M62487,erm(F),ARO:3000498,lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic,antibiotic target alteration,1,TRUE
+msr(D),23,23,9.69310877675011,0.137747336377473,0.177056179224348,0.925841272480976,2,Feces|Wastewater,AF227520|AF274302,msr(D),"","","",1,TRUE
+ant(6)-Ia,68,17,7.81593117211091,0.116438356164384,0.162169089004572,0.854211443476965,2,Feces|Wastewater,AF330699|KF864551,ant(6)-Ia,ARO:3002626,aminoglycoside antibiotic,antibiotic inactivation,1,TRUE
+tet(Q),45,15,6.60726028638399,0.0985540334855403,0.177251165925049,0.689379766861213,2,Feces|Wastewater,L33696|U73497|X58717|Z21523,tet(Q),ARO:3000191,tetracycline antibiotic,antibiotic target protection,1,TRUE
+aph(3')-III,54,3,1.01934697492468,0.0787671232876712,0.128094828564639,0.0539950105203119,2,Feces|Wastewater,M26832,aph(3')-III,ARO:3002647,aminoglycoside antibiotic,antibiotic inactivation,0.84,TRUE
+mef(A),23,23,10.2341866268674,0.0681126331811263,0.172348944560302,1,2,Feces|Wastewater,AF227520|AJ971089|HG423652|U83667,mef(A),"","","",1,TRUE
